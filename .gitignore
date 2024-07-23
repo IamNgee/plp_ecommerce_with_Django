@@ -1,3 +1,4 @@
 Plp_virtualenv/
 .vscode
-settings.py
+**/settings.py
+
